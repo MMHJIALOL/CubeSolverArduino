@@ -2,16 +2,16 @@
 
 This is a Rubik's Cube solving robot project built using:
 - **Arduino Mega + Stepper motors** to control a physical cube-turning robot
-- **OpenCV** for webcam-based color detection (borrowed code)
-- **Koceimba's cube solving algorithm** (used without changes)
+- **OpenCV** for webcam-based color detection 
+- **Koceimba's cube solving algorithm**
 - **Algo** to convert face colors into a valid cube state and solve it!
 
 ## 🧱 What's Inside
 
 - `Arduino/`: Full Arduino code for controlling motors and executing the moves
-- `OpenCV/`: Color detection script taken from another GitHub repo
-- `Koceimba/`: Cube solver algorithm (original, untouched)
-- `SolverAlgo/`: Custom code that parses the detected colors and applies the solver
+- `OpenCV/`: Color detection script
+- `Koceimba/`: Cube solver algorithm 
+- `SolverAlgo/`: Code that parses the detected colors and applies the solver
 
 ## 🙏 Credits
 
