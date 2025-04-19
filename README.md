@@ -50,8 +50,8 @@ This is a Rubik’s Cube solving robot powered by **Arduino Mega 2560**, using *
 
 ---
 ## 🙏 Credits
-- OpenCV color detection: [Reference Repo]([https://github.com/username/color-detector](https://github.com/prahalad12345/cubesolver/blob/main/colorreader.py))  
-- Koceimba solver: [Reference Repo]([https://github.com/username/koceimba-solver](https://github.com/prahalad12345/cubesolver/blob/main/solver.py))
+- OpenCV color detection: [Reference Repo](https://github.com/prahalad12345/cubesolver/blob/main/colorreader.py)  
+- Koceimba solver: [Reference Repo](https://github.com/prahalad12345/cubesolver/blob/main/solver.py)
 - 3D printed parts were inspired by online models
 
 ## 🎥 Demo
